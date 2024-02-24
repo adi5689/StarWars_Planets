@@ -1,4 +1,4 @@
-# Wars Planets
+# StarWars Planets
 
 Wars Planets is a React application that showcases a list of planets from the Star Wars universe, including details about each planet and its residents. The application utilizes the SWAPI (Star Wars API) to fetch data about planets and their inhabitants.
 
@@ -14,7 +14,7 @@ Wars Planets is a React application that showcases a list of planets from the St
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/wars_planets.git
+   git clone https://github.com/adi5689/Starwars_Planets.git
    ```
 2. Navigate to the project directory:
    ```
