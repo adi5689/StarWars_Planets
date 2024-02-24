@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.planet-card.dark {
+  @apply bg-gray-800 text-white;
+}
+
+.resident-card.dark {
+  @apply bg-gray-700 text-white;
+}
